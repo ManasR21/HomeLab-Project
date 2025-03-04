@@ -56,3 +56,7 @@
   - `attacker@attacker / attacker`
 ![Attacker Machine](./assets/attacker-machine.png)
 
+
+## 🎖️ Credits
+This project is inspired by **ProjectSecurity**, and special thanks to **Grant Collins** for providing an incredible learning experience and guidance through this project setup.
+
