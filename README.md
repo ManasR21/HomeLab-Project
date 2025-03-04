@@ -1,7 +1,7 @@
 # Home Lab Setup
 
 ## 🔥 Attack Simulation Diagram
-![Attack Simulation](./assets/attack-simulation-diagram.png)
+![Attack Simulation](./assets/attack-simulation.png)
 
 ## 🖥️ Domain Controller Overview
 - **Hostname:** `dc (corp.project-x-dc.com)`
