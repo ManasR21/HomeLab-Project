@@ -40,6 +40,7 @@
 - **Function:** Security Testing & Simulation
 - **User Credentials:**  
   - `project-x-sec-work / @password123!`
+![Security Workstation](./assets/security-workstation.png)
 
 ### 📧 Email Server
 - **Hostname:** `email-svr`
