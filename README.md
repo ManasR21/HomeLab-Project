@@ -1,12 +1,12 @@
 # Home Lab Setup
 
-## 🔥 Attack Simulation Diagram
+##  Attack Simulation Diagram
 ![Attack Simulation](./assets/attack-simulation.png)
 
 ## 🖥️ Domain Controller Overview
 - **Hostname:** `dc (corp.project-x-dc.com)`
 - **IP Address:** `10.0.0.5`
-- **Function:** Domain Controller (DNS, DHCP, SSO)
+- **Function:** Domain Controller (DNS, DHCP)
 - **Administrator Password:** `@Deeboodah1!`
 ![Domain Controller](./assets/domain-controller.png)
 
